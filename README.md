@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SariSafe
-- 👀 I’m interested in devolping and engineer software
+- 👀 I’m interested in developing and engineer software
 - 🌱 I’m currently learning  computer science  2nd
 - 📫 How to reach me ... 
 
