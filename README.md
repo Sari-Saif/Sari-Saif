@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SariSafe
-- 👀 I’m interested in developing and engineer software
+- 👀 I’m interested in developing and software engineer
 - 🌱 I’m currently learning  computer science  2nd
 - 📫 How to reach me... email : ssriseef@gmail.com
 
