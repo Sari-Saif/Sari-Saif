@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sari Safe</h1>
+<h1 align="center">Hi 👋, I'm Sari Saif</h1>
 <h3 align="center">A passionate software engineer from Israel</h3>
 
 - 🌱 I’m currently learning **computer science**
