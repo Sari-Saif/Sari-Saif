@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarisaif&label=Profile%20views&color=0e75b6&style=flat" alt="sarisaif" /> </p>
 
-- 🌱 I’m currently learning **computer science**
+- 🌱 **BSC.computer science graduate**
 
 - 📫 How to reach me **ssriseef@gmail.com**
 
